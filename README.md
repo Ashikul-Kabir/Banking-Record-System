@@ -1,6 +1,6 @@
 # Banking-Record-System
 This project includes using the system as various kinds of users
-with various level of privileges. One can enter into the program as:
+having various level of privileges. One can enter into the program as:
 • Admin
 • Employee or
 • Customer
@@ -21,4 +21,4 @@ addRecord, deleteRecord, editRecord etc.) to build up the
 program. All the informations will be stored initially in multiple
 text files to access throughout the main program.
 
--> All the above mentioned tasks were carried out only for customers. User can modify the sections for admin & employee also; after getting a very profound knowledge on OOP using c++ language.
+-> All the above mentioned tasks were carried out only for customers. User can modify the sections for admin & employee also; after achieving a very profound knowledge-base on OOP using c++ language.
